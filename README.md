@@ -10,7 +10,7 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
 
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=acmicpc0614&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![acmicpc0614's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=acmicpc0614&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/acmicpc0614/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://github.com/acmicpc0614">
